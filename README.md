@@ -1,1 +1,1 @@
-# HikeProject
+# Java Swing Application GUI
