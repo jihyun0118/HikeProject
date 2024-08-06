@@ -16,6 +16,6 @@
 
 ## List of Files in Submission:
 Java Swing Application Includes: 
-1. Four .java files
+1. Three .java files
    (HikeGUI.java, SocketClient.java, Reservation.java)
 
